@@ -1,4 +1,4 @@
-!DOCTYPE ;
+!DOCTYPE 
 <html>
     <body>
         <h1>JvaScript variables</h1>
