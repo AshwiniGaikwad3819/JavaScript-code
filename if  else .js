@@ -20,7 +20,9 @@ console.log( "GradeSS A");
         }*/
 
 //if -else exampal.
-let Marks="99";
+
+
+/*let Marks="99";
 if(Marks>=100){
     console.log("Gread A");
 }else if(Marks>=101){
@@ -29,7 +31,14 @@ if(Marks>=100){
     console.log("Gread c");
 }else{
     console.log("Gread")
-}
+}*/
 
+let Month="April";
+if(Month==="january"){
+    console .log("Winter is here")
+}else if
+ ( Month==="April"){
+    console.log("summer is here")
+ }
 
 
