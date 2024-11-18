@@ -16,5 +16,5 @@
 //let age =15;
 //console.log(age>=15);
 
-let n=str;
-console.log(n==str);
+let age=60;
+console.log(age<=60);

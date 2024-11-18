@@ -1,0 +1,11 @@
+let name=["Ashwini ","Radha","gita","sita","mansi"];
+console.log(name.shift());
+console.log(name);
+console.log(name.push["rahul"]);
+console.log(name);
+console.log(name.pop());
+console.log(name);
+console.log(name.push("mansi"));
+console.log(name);
+console.log(name.unshift("Ashwini"));
+console.log(name);
